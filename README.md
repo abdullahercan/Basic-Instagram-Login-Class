@@ -1,1 +1,1 @@
-# Basic-Instagram-Login-Class
+# Basic Instagram Login Class
